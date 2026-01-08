@@ -1,0 +1,435 @@
+Fried rice
+Chicken curry
+Beef noodles
+Spaghetti Bolognese
+Sushi rolls
+Ramen
+Grilled salmon
+Roast chicken
+Bibimbap
+Pad Thai
+Caesar salad
+Avocado toast
+Quinoa bowl
+Steamed dumplings
+Vegetable stir-fry
+Lentil soup
+Chicken wrap
+Poke bowl
+Cheeseburger
+French fries
+Fried chicken
+Hot dog
+Pizza slice
+Tacos
+Shawarma
+Fish and chips
+Chocolate cake
+Ice cream
+Cheesecake
+Apple pie
+Donut
+Pancakes
+Waffles
+Tiramisu
+Mochi
+Fruit salad
+Yogurt parfait
+Granola bar
+Popcorn
+Trail mix
+Boiled eggs
+Toast with butter
+Peanut butter sandwich
+Congee
+Laksa
+Udon noodles
+Soba noodles
+Kimchi stew
+Curry fish balls
+Chicken biryani
+Beef stew
+Teriyaki chicken
+Sweet and sour pork
+Grilled steak
+Chicken katsu
+Pork chop
+Lamb kebab
+Seafood paella
+Beef burrito
+Egg fried noodles
+Curry rice
+Tom yum noodles
+Singapore fried vermicelli
+Chicken rice
+Hainanese chicken rice
+Claypot rice
+Garlic butter rice
+Miso ramen
+Seafood udon
+Greek salad
+Caprese salad
+Chickpea salad
+Grilled vegetables
+Steamed broccoli
+Tofu stir fry
+Baked sweet potato
+Oatmeal with fruits
+Smoothie bowl
+Chia pudding
+BBQ ribs
+Pulled pork sandwich
+Sloppy joe
+Chicken wings
+Onion rings
+Loaded nachos
+Quesadilla
+Meatball sub
+Corn dog
+Fried calamari
+Brownies
+Macarons
+Custard tart
+Egg tart
+Milk pudding
+Chocolate mousse
+Creme brulee
+Banana bread
+Churros
+Red bean bun
+Spring rolls
+Samosa
+Edamame
+Roasted peanuts
+Cheese sticks
+Crackers and cheese
+Rice crackers
+Seaweed snacks
+Hard boiled eggs
+Mini sandwiches
+Falafel wrap
+Hummus with pita
+Butter chicken
+Naan bread
+Pho
+Banh mi
+Goulash
+Pierogi
+Sauerbraten
+Ceviche
+Lasagna
+Carbonara
+Fettuccine Alfredo
+Pesto pasta
+Gnocchi
+Risotto
+Minestrone soup
+Clam chowder
+French onion soup
+Tomato basil soup
+Grilled cheese sandwich
+Turkey sandwich
+Chicken panini
+BLT sandwich
+Croque monsieur
+Eggs benedict
+Omelette
+Scrambled eggs
+Poached eggs
+Deviled eggs
+Pancake stack
+French toast
+Banana pancakes
+Blueberry muffins
+Cinnamon rolls
+Bagel with cream cheese
+Breakfast burrito
+Breakfast sandwich
+Hash browns
+Chicken pot pie
+Shepherd’s pie
+Meatloaf
+Beef stroganoff
+Chicken marsala
+Chicken parmesan
+Veal piccata
+Eggplant parmesan
+Stuffed bell peppers
+Stuffed cabbage rolls
+Beef lasagna
+Spinach quiche
+Mushroom quiche
+Cheese quiche
+Baked ziti
+Mac and cheese
+Chili con carne
+Beef chili
+Vegetarian chili
+Baked beans
+Cornbread
+Garlic bread
+Bruschetta
+Caprese sandwich
+Chicken quesadilla
+Beef quesadilla
+Shrimp tacos
+Fish tacos
+Carnitas
+Barbacoa
+Enchiladas
+Tamales
+Fajitas
+Chicken fajitas
+Beef fajitas
+Paella valenciana
+Seafood risotto
+Shrimp scampi
+Garlic shrimp
+Butter garlic crab
+Steamed mussels
+Grilled prawns
+Lobster roll
+Crab cakes
+Tuna steak
+Swordfish steak
+Grilled sardines
+Smoked salmon
+Salmon poke
+Beef Wellington
+Chicken cordon bleu
+Duck confit
+Coq au vin
+Bouef bourguignon
+Cassoulet
+Ratatouille
+Steak au poivre
+Sole meuniere
+Bouillabaisse
+Fish pie
+Scotch eggs
+Yorkshire pudding
+Sunday roast
+Roast beef with gravy
+Bangers and mash
+Cornish pasty
+Beef and ale pie
+Chicken and mushroom pie
+Ploughman’s lunch
+Reuben sandwich
+Cubano sandwich
+Monte Cristo sandwich
+Philly cheesesteak
+Italian sub
+Chicken salad sandwich
+Tuna melt
+Sliders
+Patty melt
+Smash burger
+Chicken fried steak
+Biscuits and gravy
+Jambalaya
+Gumbo
+Shrimp and grits
+Fried green tomatoes
+Meatloaf sandwich
+Chicken tetrazzini
+Turkey pot pie
+Beef empanadas
+Chicken empanadas
+Spinach and feta pie
+Greek moussaka
+Pastitsio
+Spanakopita
+Calzone
+Stromboli
+Arancini
+Polenta with mushrooms
+Osso buco
+Saltimbocca
+Cacio e pepe
+Amatriciana pasta
+Pappardelle with ragu
+Bucatini pasta
+Seafood linguine
+Cioppino
+New England boiled dinner
+Lobster bisque
+Crab bisque
+Oyster stew
+Baked oysters
+Clams casino
+Chicken piccata
+Turkey roulade
+Stuffed pork loin
+Pork tenderloin medallions
+Braised short ribs
+Prime rib
+Ribeye steak
+New York strip steak
+Filet mignon
+Chateaubriand
+Surf and turf
+Chicken schnitzel
+Veal schnitzel
+Pork schnitzel
+German sauerbraten
+Hungarian chicken paprikash
+Swedish meatballs
+Norwegian fish stew
+Ham and cheese sandwich
+Turkey and cheese sandwich
+Grilled chicken sandwich
+Chicken salad wrap
+Caesar chicken wrap
+Tuna salad wrap
+Club sandwich
+Egg salad sandwich
+Pasta salad
+Potato salad
+Coleslaw
+Macaroni salad
+Baked chicken breast
+Grilled chicken breast
+Roasted turkey
+Turkey meatballs
+Chicken meatballs
+Beef meatballs
+Pork meatballs
+Chicken nuggets
+Fish fingers
+Chicken tenders
+Baked cod
+Baked haddock
+Grilled tilapia
+Pan fried sole
+Roast pork
+Pulled chicken
+BBQ chicken
+BBQ pulled pork
+BBQ beef brisket
+Hot roast beef sandwich
+Open faced turkey sandwich
+Mashed potatoes
+Roasted potatoes
+Scalloped potatoes
+Potato wedges
+Sweet potato fries
+Buttered corn
+Corn on the cob
+Green bean casserole
+Steamed green beans
+Glazed carrots
+Roasted carrots
+Peas and carrots
+Creamed spinach
+Sauteed mushrooms
+Garlic mashed potatoes
+Chicken gravy
+Beef gravy
+Chicken soup
+Vegetable soup
+Beef soup
+Chicken noodle soup
+Tomato soup with crackers
+Split pea soup
+Lentil stew
+Beef stew with vegetables
+Chicken stew
+Baked meatballs
+Stuffed chicken breast
+Chicken cutlets
+Breaded pork chops
+Grilled pork chops
+Baked pork chops
+Pork roast
+Roast lamb
+Lamb chops
+Grilled sausages
+Bratwurst
+Breakfast sausage
+Bacon strips
+Ham slices
+Scrambled eggs with toast
+Fried eggs with toast
+Plain hamburger
+Hamburger patty
+Cheeseburger slider
+Turkey burger
+Veggie burger
+Grilled hot dog
+Boiled hot dog
+Baked chicken thighs
+Roasted chicken legs
+Chicken drumsticks
+Chicken wings with sauce
+Buffalo wings
+Honey BBQ wings
+Baked turkey breast
+Turkey slices with gravy
+Roast beef slices
+Beef patties with gravy
+Pork cutlets
+Pan-fried pork loin
+Breaded chicken fillet
+Grilled chicken fillet
+Chicken breast sandwich
+Turkey breast sandwich
+Roast beef sandwich
+Ham sandwich
+Grilled ham sandwich
+Cheese sandwich
+Grilled cheese with tomato
+Baked salmon fillet
+Pan-seared salmon
+Poached salmon
+Baked trout
+Pan-fried trout
+Grilled white fish
+Fish fillet sandwich
+Fish burger
+Seafood sticks
+Baked shrimp
+Grilled shrimp skewers
+Shrimp cocktail
+Cold shrimp salad
+Egg salad on toast
+Avocado sandwich
+Avocado and egg toast
+Peanut butter toast
+Jam on toast
+Butter toast
+Plain bagel
+Bagel with butter
+Bagel sandwich
+English muffin
+English muffin sandwich
+Breakfast toast
+Soft boiled eggs
+Hard boiled eggs with toast
+Cheese omelette
+Ham omelette
+Vegetable omelette
+Baked omelette
+Breakfast potatoes
+Home fries
+Skillet potatoes
+Creamy mashed cauliflower
+Steamed cauliflower
+Roasted cauliflower
+Zucchini bake
+Grilled zucchini
+Stuffed mushrooms
+Baked mushrooms
+Sauteed onions
+Caramelized onions
+Roasted bell peppers
+Bell pepper stir bake
+Simple garden salad
+Mixed green salad
+Iceberg lettuce salad
+Cucumber salad
+Tomato salad
+Tomato slices with salt
+Cheese plate
+Cheddar cheese cubes
+Mozzarella slices

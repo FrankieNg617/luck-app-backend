@@ -12,9 +12,11 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "@faker-js/faker": "^10.2.0",
     "astronomy-engine": "^2.1.19",
     "express": "^5.2.1",
     "luxon": "^3.7.2",
+    "random-foods": "^1.1.1",
     "sqlite": "^5.1.1",
     "sqlite3": "^5.1.7"
   },
