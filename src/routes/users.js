@@ -159,6 +159,14 @@ router.get('/daily-personal', async (req, res, next) => {
 
     const explanations = scored.topAspects.map(a => aspectToHumanText(a));
 
+    const { getDailyContent } = require('../lists/daily_picker');
+
+    const dailyContent = getDailyContent({
+        userId,
+        localDate: localDateKey,
+        tz
+    });
+
     const payload = {
       meta: {
         userId,
@@ -174,10 +182,10 @@ router.get('/daily-personal', async (req, res, next) => {
         risingSign: natal.ascendant?.risingSign
       },
       scores: scored.scores,
-      explanations
-      // (optional) remove debug in production
-      // debug: { top_aspects: scored.topAspects }
+      explanations,
+      daily_content: dailyContent
     };
+
 
     // 6) Upsert cache
     await db.run(
